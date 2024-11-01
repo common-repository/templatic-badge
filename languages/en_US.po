@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution-New Badge\n"
+"POT-Creation-Date: 2016-05-14 15:35+0530\n"
+"PO-Revision-Date: 2016-05-14 15:35+0530\n"
+"Last-Translator: \n"
+"Language-Team: templatic <testtemplatic@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../../Templatic-CategoryIcons\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple_category_icons_admin.php:55
+msgid "Icon Sizes"
+msgstr ""
+
+#: simple_category_icons_admin.php:56
+msgid ""
+"Note that changing icon sizes doesn't effect already existing icons, nor "
+"will it cause to resize them"
+msgstr ""
+
+#: simple_category_icons_admin.php:74
+msgid "px"
+msgstr ""
+
+#: simple_category_icons_admin.php:84
+msgid "Taxonomies"
+msgstr ""
+
+#: templatic_category_icons.php:100
+msgid "Icon"
+msgstr ""
+
+#: templatic_category_icons.php:140 templatic_category_icons.php:174
+msgid "Category Icons"
+msgstr ""
+
+#: templatic_category_icons.php:143 templatic_category_icons.php:201
+msgid "Upload Image"
+msgstr ""
+
+#: templatic_category_icons.php:144 templatic_category_icons.php:206
+msgid "Add Font Awesome icon"
+msgstr ""
+
+#: templatic_category_icons.php:154 templatic_category_icons.php:216
+msgid "X"
+msgstr ""
